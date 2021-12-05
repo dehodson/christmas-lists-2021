@@ -1,0 +1,916 @@
+[
+  {
+    "name": "Ty",
+    "sections": [
+      {
+        "header": "Favorite Drinks",
+        "items": [
+          "Sweet Tea",
+          "Dr. Pepper"
+        ]
+      },
+      {
+        "header": "Favorite Treats",
+        "items": [
+          "Swedish Fish",
+          "Sour Patch Kids"
+        ]
+      },
+      {
+        "header": "Favorite Snacks",
+        "items": [
+          "Cheddar Sour Cream",
+          "Onion Cheez-Its"
+        ]
+      },
+      {
+        "header": "Hobbies and Interests",
+        "items": [
+          "Football",
+          "Coloring"
+        ]
+      },
+      {
+        "header": "Favorite Media",
+        "items": [
+          "American Horror Story",
+          "Stranger Things"
+        ]
+      },
+      {
+        "header": "Household Items and Personal Care",
+        "items": [
+          "American Eagle Cologne (Fear Nothing)"
+        ]
+      },
+      {
+        "header": "Favorite Brands",
+        "items": [
+          "Nike",
+          "American Eagle",
+          "North Face"
+        ]
+      },
+      {
+        "header": "Gadgets, Tools, Tech Wishes",
+        "items": [
+          "Car Fresheners (Black Ice)",
+          "A Plug In That Has Multiple Plug Ins"
+        ]
+      },
+      {
+        "header": "Gift Card Ideas",
+        "items": [
+          "Chick Fil A",
+          "Starbucks",
+          "Chipotle",
+          "Dicks",
+          "American Eagle"
+        ]
+      },
+      {
+        "header": "Clothing Sizes",
+        "items": [
+          "Sweatpants L",
+          "Jeans 33X32",
+          "Everything else XL"
+        ]
+      },
+      {
+        "header": "Other Gift Ideas",
+        "items": [
+          "Tiny Things For My Car",
+          "Room Decorations",
+          "Sherpa Comforter"
+        ]
+      },
+      {
+        "header": "Extra Gift Info",
+        "items": [
+          "Favorite Colors - Black, Blue, Red",
+          "Flavors- Anything Really",
+          "NOT to get - Under Armor, Hurley, Adidas"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Desmond",
+    "sections": [
+      {
+        "header": "Favorite Drinks",
+        "items": [
+          "La Croix",
+          "Topo Chico",
+          "Whole Bean Coffee",
+          "Loose Leaf Tea",
+          "Sugar Free Red Bull",
+          "Bourbon/Whiskey",
+          "Mezcal",
+          "Tequila"
+        ]
+      },
+      {
+        "header": "Favorite Treats",
+        "items": [
+          "No sweets, please"
+        ]
+      },
+      {
+        "header": "Favorite Snacks",
+        "items": [
+          "Almonds",
+          "Cashews",
+          "Mixed Nuts",
+          "Jerky",
+          "Popcorn",
+          "Kettle Corn",
+          "Terra Veggie Chips"
+        ]
+      },
+      {
+        "header": "Hobbies and Interests",
+        "items": [
+          "House Plants",
+          "Baking",
+          "Cooking",
+          "Camping",
+          "Hiking",
+          "Travel",
+          "Trying new things"
+        ]
+      },
+      {
+        "header": "Favorite Media",
+        "items": [
+          "Cookbooks",
+          "World Cuisine Books",
+          "Bread Making Books"
+        ]
+      },
+      {
+        "header": "Household Items and Personal Care",
+        "items": [
+          "Candles",
+          "Incense",
+          "Wax Melts",
+          "Bath Bombs",
+          "Fancy Hand Soaps"
+        ]
+      },
+      {
+        "header": "Gift Card Ideas",
+        "items": [
+          "North Face",
+          "H&M",
+          "Starbucks",
+          "Five Guys",
+          "Taco Bell",
+          "Target",
+          "Panera",
+          "Amazon",
+          "Clustertruck"
+        ]
+      },
+      {
+        "header": "Clothing Sizes",
+        "items": [
+          "Don't buy me shirts or pants.",
+          "Sock Size/Shoe Size 13"
+        ]
+      },
+      {
+        "header": "Other Gift Ideas",
+        "items": [
+          "Hand Made Pottery Items",
+          "Interesting or Unique Snacks/Drinks",
+          "King Arthur Flours (Ap, Bread, Whole Wheat)",
+          "Professional-Sized Steel Mixing Bowls"
+        ]
+      },
+      {
+        "header": "Extra Gift Info",
+        "items": [
+          "No Sweets, Please.",
+          "I love earthy or warm scents for candles, incense, and wax melts. (Like Pine, Patchouli, Musk, Vanilla)"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Hayden",
+    "sections": [
+      {
+        "header": "Favorite Drinks",
+        "items": [
+          "Sweet (Rasberry, Peach, Mango) Tea",
+          "Coke",
+          "Pepsi",
+          "Mountain Dew (All Flavors)"
+        ]
+      },
+      {
+        "header": "Favorite Treats",
+        "items": [
+          "Mounds",
+          "Bueno",
+          "Sour Brite Eggs",
+          "Sour Brite Straws",
+          "Sweet Tart Strawberry Ropes",
+          "Strawberry Sour Patch Kids"
+        ]
+      },
+      {
+        "header": "Favorite Snacks",
+        "items": [
+          "Buffalo Cheez-Its",
+          "Snyder's Pretzels (Original, Honey Mustard, and Buffalo)"
+        ]
+      },
+      {
+        "header": "Hobbies and Interests",
+        "items": [
+          "Sports (Baseball, Basketball, Football)",
+          "Collecting Sports Trading Cards",
+          "Lifting",
+          "Video Games"
+        ]
+      },
+      {
+        "header": "Favorite Media",
+        "items": [
+          "The Office",
+          "Madden",
+          "MLB The Show",
+          "Step Brothers",
+          "Trouble With The Curve",
+          "Varsity Blues",
+          "Call Of Duty"
+        ]
+      },
+      {
+        "header": "Household Items and Personal Care",
+        "items": [
+          "Car Refresheners",
+          "Game Towel"
+        ]
+      },
+      {
+        "header": "Favorite Brands",
+        "items": [
+          "Nike",
+          "Adidas",
+          "Under Armour",
+          "Hollister",
+          "American Eagle",
+          "Calvin Klein",
+          "New Balance"
+        ]
+      },
+      {
+        "header": "Gadgets, Tools, Tech Wishes",
+        "items": [
+          "Bedroom Wall Lights",
+          "Air Refreshener"
+        ]
+      },
+      {
+        "header": "Gift Card Ideas",
+        "items": [
+          "Nike",
+          "Adidas",
+          "American Eagle",
+          "Olive Garden",
+          "Gas Cards",
+          "Taco Bell",
+          "Chipotle",
+          "Chick Fil A",
+          "Hot Head",
+          "Buffalo Wild Wings"
+        ]
+      },
+      {
+        "header": "Toys and Games",
+        "items": [
+          "PS4 Games - Sports, Call Of Duty, Spider Man"
+        ]
+      },
+      {
+        "header": "Clothing Sizes",
+        "items": [
+          "Large In Shirts",
+          "Shorts",
+          "Hoodies",
+          "Pants",
+          "XL in Long Sleeve",
+          "32X36 In Jeans"
+        ]
+      },
+      {
+        "header": "Extra Gift Info",
+        "items": [
+          "White, Black, Grey, Blue, and Red are the colors I wear most."
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Nickie",
+    "sections": [
+      {
+        "header": "Favorite Drinks",
+        "items": [
+          "Mango Cart Beer \ud83e\udd24",
+          "Water",
+          "...Not a big pop drinker"
+        ]
+      },
+      {
+        "header": "Favorite Treats",
+        "items": [
+          "Almond Croissants"
+        ]
+      },
+      {
+        "header": "Hobbies and Interests",
+        "items": [
+          "Yoga"
+        ]
+      },
+      {
+        "header": "Favorite Media",
+        "items": [
+          "Friends",
+          "Any Scary Movies",
+          "Ozark"
+        ]
+      },
+      {
+        "header": "Household Items and Personal Care",
+        "items": [
+          "Biolage Shampoo",
+          "Conditioner",
+          "Paul Mitchell Hair Foam (Red Cap)",
+          "Victoria Secret Body Sprays (Pink Collection)",
+          "Scentsy Melts",
+          "Hair Headbands"
+        ]
+      },
+      {
+        "header": "Favorite Brands",
+        "items": [
+          "Nike",
+          "Under Armour",
+          "Really anything that fits these days"
+        ]
+      },
+      {
+        "header": "Gadgets, Tools, Tech Wishes",
+        "items": [
+          "Meat Thermometer",
+          "Cell Phone Holder for My Car",
+          "Car Charger (Samsung S10)"
+        ]
+      },
+      {
+        "header": "Gift Card Ideas",
+        "items": [
+          "Amazon",
+          "Marshall's",
+          "Anywhere to eat!! I love food"
+        ]
+      },
+      {
+        "header": "Clothing Sizes",
+        "items": [
+          "Large in shirts and bottoms",
+          "Size 12 Jeans",
+          "Shoe Size 8-8 1/2"
+        ]
+      },
+      {
+        "header": "Other Gift Ideas",
+        "items": [
+          "New jacket for fall/spring with hood (I have a North Face but it is getting old) not the vinyl material... polyester",
+          "Snow Boots?"
+        ]
+      },
+      {
+        "header": "Extra Gift Info",
+        "items": [
+          "Melt Scents - Fresh Clean Smells",
+          "No Vanilla Or Anything That Smells Like Syrup.",
+          "Colors - Like Purples, Greys, Black, Blue."
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Dave",
+    "sections": [
+      {
+        "header": "Favorite Drinks",
+        "items": [
+          "Miller Lite",
+          "Bourbon",
+          "Pure Leaf Sweet Tea"
+        ]
+      },
+      {
+        "header": "Favorite Treats",
+        "items": [
+          "Almond Joy",
+          "Mounds",
+          "Ho Ho's"
+        ]
+      },
+      {
+        "header": "Favorite Snacks",
+        "items": [
+          "Mixed Nuts",
+          "Cashews",
+          "Walnuts"
+        ]
+      },
+      {
+        "header": "Hobbies and Interests",
+        "items": [
+          "Sports",
+          "Reds"
+        ]
+      },
+      {
+        "header": "Favorite Media",
+        "items": [
+          "Checkers"
+        ]
+      },
+      {
+        "header": "Household Items and Personal Care",
+        "items": [
+          "American Eagle Cologne",
+          "Old Spice Swagger Body Wash",
+          "Plants"
+        ]
+      },
+      {
+        "header": "Favorite Brands",
+        "items": [
+          "Under Armour",
+          "Nike"
+        ]
+      },
+      {
+        "header": "Gift Card Ideas",
+        "items": [
+          "Lowes",
+          "Menards",
+          "Texas Roadhouse"
+        ]
+      },
+      {
+        "header": "Clothing Sizes",
+        "items": [
+          "XXXL - Shirts & Hoodies",
+          "XXL- Sweats & Shorts"
+        ]
+      },
+      {
+        "header": "Extra Gift Info",
+        "items": [
+          "Favorite Colors - Black, Blue",
+          "Favorite Flavors - Anything"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Christi",
+    "sections": [
+      {
+        "header": "Favorite Drinks",
+        "items": [
+          "Starbucks"
+        ]
+      },
+      {
+        "header": "Favorite Treats",
+        "items": [
+          "Starbucks"
+        ]
+      },
+      {
+        "header": "Hobbies and Interests",
+        "items": [
+          "Plants",
+          "Cooking",
+          "Sleeping",
+          "Aromatherapy",
+          "Movies",
+          "Listening to Music",
+          "Working With Flowers"
+        ]
+      },
+      {
+        "header": "Favorite Media",
+        "items": [
+          "Yellowstone",
+          "Schitts Creek"
+        ]
+      },
+      {
+        "header": "Household Items and Personal Care",
+        "items": [
+          "Bathtub Tray",
+          "Cabin Socks"
+        ]
+      },
+      {
+        "header": "Favorite Brands",
+        "items": [
+          "KitchenAid",
+          "Magnolia"
+        ]
+      },
+      {
+        "header": "Gadgets, Tools, Tech Wishes",
+        "items": [
+          "A Battery Operated Lamp For My Desk",
+          "A Rice Cooker - A Good One",
+          "Bread Maker"
+        ]
+      },
+      {
+        "header": "Gift Card Ideas",
+        "items": [
+          "Starbucks",
+          "Victoria's Secret"
+        ]
+      },
+      {
+        "header": "Toys and Games",
+        "items": [
+          "Game Boy with Tetris game lol"
+        ]
+      },
+      {
+        "header": "Clothing Sizes",
+        "items": [
+          "Let's not go there lol"
+        ]
+      },
+      {
+        "header": "Other Gift Ideas",
+        "items": [
+          "Groot pot for plant"
+        ]
+      },
+      {
+        "header": "Extra Gift Info",
+        "items": [
+          "Big Bag Of Chop Sticks",
+          "Big Sushi Tray With Dividers",
+          "A Wok",
+          "Skillet For Tortillas",
+          "Molcajete"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Max",
+    "sections": [
+      {
+        "header": "Favorite Drinks",
+        "items": [
+          "Root Beer",
+          "Sprite",
+          "Fanta",
+          "Vanilla Bean Frappuccino"
+        ]
+      },
+      {
+        "header": "Favorite Treats",
+        "items": [
+          "Cookies",
+          "Rice Crispy Treats"
+        ]
+      },
+      {
+        "header": "Favorite Snacks",
+        "items": [
+          "Cheez-It's",
+          "Potato Chips"
+        ]
+      },
+      {
+        "header": "Hobbies and Interests",
+        "items": [
+          "Video Games",
+          "Cars",
+          "Basketball"
+        ]
+      },
+      {
+        "header": "Favorite Media",
+        "items": [
+          "Fortnite",
+          "Fast and Furious"
+        ]
+      },
+      {
+        "header": "Household Items and Personal Care",
+        "items": [
+          "Deodorant Lavender Old Spice",
+          "Soap Old Spice"
+        ]
+      },
+      {
+        "header": "Favorite Brands",
+        "items": [
+          "Under Armor",
+          "Nike Jordan",
+          "Hurley"
+        ]
+      },
+      {
+        "header": "Gadgets, Tools, Tech Wishes",
+        "items": [
+          "Playstation 5",
+          "Nintendo Switch"
+        ]
+      },
+      {
+        "header": "Gift Card Ideas",
+        "items": [
+          "Buffalo Wild Wings",
+          "Red Robin",
+          "Starbucks",
+          "Dicks Sporting Goods"
+        ]
+      },
+      {
+        "header": "Toys and Games",
+        "items": [
+          "Hitman the Game",
+          "V-Bucks",
+          "A Basketball"
+        ]
+      },
+      {
+        "header": "Clothing Sizes",
+        "items": [
+          "Y Medium Shirts",
+          "Pants",
+          "Small or medium underwear"
+        ]
+      },
+      {
+        "header": "Other Gift Ideas",
+        "items": [
+          "V-Bucks",
+          "A Lot Of Cheez-Its"
+        ]
+      },
+      {
+        "header": "Extra Gift Info",
+        "items": [
+          "Colors: Green or Orange",
+          "Vanilla Scent",
+          "What NOT to get: anything Tesla"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Kaylee",
+    "sections": [
+      {
+        "header": "Favorite Drinks",
+        "items": [
+          "Water",
+          "Coke",
+          "Body Armor",
+          "Diet Seagram Ginger Ale",
+          "Broomtail"
+        ]
+      },
+      {
+        "header": "Favorite Treats",
+        "items": [
+          "&quot;Half Baked&quot; Ice Cream By Ben and Jerry's",
+          "Toll House Cookies"
+        ]
+      },
+      {
+        "header": "Favorite Snacks",
+        "items": [
+          "Beef Jerky",
+          "Popcorn",
+          "Chips and Dean's Dip",
+          "Sushi",
+          "OG Kraft Mac & Cheese in the Box"
+        ]
+      },
+      {
+        "header": "Hobbies and Interests",
+        "items": [
+          "Cooking",
+          "Going Out With Friends",
+          "Eating Sushi",
+          "Traveling",
+          "Dallas Cowboys",
+          "Michigan Wolverines (Beat Ohio State... hehehe)",
+          "Charlotte Hornets"
+        ]
+      },
+      {
+        "header": "Favorite Media",
+        "items": [
+          "Below Deck (Show)",
+          "American Horror Story (Show)",
+          "Selling Sunset (Show)",
+          "60 Days In (Show)",
+          "Riverdale (Show)",
+          "Ozark (Show)",
+          "Hell's Kitchen (Show)",
+          "Anything With Will Ferrell Or Tiffany Haddish",
+          "All The Halloween Movies",
+          "Handmaids Tail (Show)",
+          "Ghost Adventure (Show)",
+          "Scary Movie 1,2,3,4 (Movie)",
+          "All The Fridays (Movie)",
+          "Girls Trip (Movie)",
+          "Night School (Movie)",
+          "Austin Powers (Movie)",
+          "Mean Girls (Movie)"
+        ]
+      },
+      {
+        "header": "Household Items and Personal Care",
+        "items": [
+          "Bath and Body Shower Gels",
+          "Sams Club Bulk Items Like: Trash Bags, Paper Towels, Toilet Paper, Paper Plates, Pods, Tooth Paste, Dawn Dish Soap.",
+          "Candles",
+          "Shampoo & Conditioner",
+          "Perfumes: any Brands But Bath & Body Works"
+        ]
+      },
+      {
+        "header": "Favorite Brands",
+        "items": [
+          "Nike",
+          "Yankee Candle",
+          "Jordan",
+          "Tommy Hilfiger",
+          "Under Armour",
+          "Bath and Body",
+          "Apple",
+          "The North Face",
+          "Vicwhoria Secret",
+          "American Eagle",
+          "Pac Sun",
+          "Kitchen Aid",
+          "Michael Kors",
+          "Ugg"
+        ]
+      },
+      {
+        "header": "Gadgets, Tools, Tech Wishes",
+        "items": [
+          "Knife Block"
+        ]
+      },
+      {
+        "header": "Gift Card Ideas",
+        "items": [
+          "Chipotle (Eat Here The Most)",
+          "Dairy Queen",
+          "Dominos",
+          "Subway (Eat Here The Most)",
+          "Tj Maxx",
+          "Marshall's",
+          "Home Goods",
+          "Walmart",
+          "Sams Club",
+          "Target",
+          "Gas Cards"
+        ]
+      },
+      {
+        "header": "Toys and Games",
+        "items": [
+          "Any Board Games",
+          "Card Games"
+        ]
+      },
+      {
+        "header": "Clothing Sizes",
+        "items": [
+          "Usually Medium / Can Wear A Large"
+        ]
+      },
+      {
+        "header": "Other Gift Ideas",
+        "items": [
+          "One Million Dollars",
+          "Plug In Car Vacuum",
+          "Air Fresheners For Cars",
+          "Indoor Garden",
+          "Old School / Vintage Wear",
+          "House Slippers (No Back)",
+          "New Purse",
+          "Vacuum"
+        ]
+      },
+      {
+        "header": "Extra Gift Info",
+        "items": [
+          "Favorite Color: Blue",
+          "Favorite Flavor: Chocolate Duh",
+          "Favorite Scent: Marshmallow & Maple Bourbon"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Angie",
+    "sections": [
+      {
+        "header": "Favorite Drinks",
+        "items": [
+          "Diet Dr Pepper",
+          "Sweet Tea",
+          "Michelob ULTRA"
+        ]
+      },
+      {
+        "header": "Favorite Treats",
+        "items": [
+          "Popcorn"
+        ]
+      },
+      {
+        "header": "Favorite Snacks",
+        "items": [
+          "Bean Dip & Fritos"
+        ]
+      },
+      {
+        "header": "Favorite Media",
+        "items": [
+          "True Crime"
+        ]
+      },
+      {
+        "header": "Household Items and Personal Care",
+        "items": [
+          "VS Body Sprays",
+          "Size Medium PJ Set"
+        ]
+      },
+      {
+        "header": "Favorite Brands",
+        "items": [
+          "MK",
+          "AE",
+          "Nike",
+          "UA"
+        ]
+      },
+      {
+        "header": "Gadgets, Tools, Tech Wishes",
+        "items": [
+          "Kitchenaid Hand Can Opener"
+        ]
+      },
+      {
+        "header": "Gift Card Ideas",
+        "items": [
+          "Olive Garden",
+          "Any Mexican Restaurant"
+        ]
+      },
+      {
+        "header": "Clothing Sizes",
+        "items": [
+          "Pants Size 8",
+          "Shirts M-L"
+        ]
+      },
+      {
+        "header": "Other Gift Ideas",
+        "items": [
+          "House Plants",
+          "Queen Size Blanket"
+        ]
+      },
+      {
+        "header": "Extra Gift Info",
+        "items": [
+          "Color: Purple"
+        ]
+      }
+    ]
+  }
+]
