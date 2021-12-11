@@ -912,5 +912,216 @@
         ]
       }
     ]
+  },
+  {
+    "name": "Zach",
+    "sections": [
+      {
+        "header": "Favorite Drinks",
+        "items": [
+          "Baja Blast",
+          "Crown (Any Flavor)",
+          "Coke",
+          "Vanilla Coke"
+        ]
+      },
+      {
+        "header": "Favorite Treats",
+        "items": [
+          "Brownies",
+          "Cookies",
+          "Sour Candy"
+        ]
+      },
+      {
+        "header": "Favorite Snacks",
+        "items": [
+          "Doritos",
+          "Beef Jerky",
+          "Oreos",
+          "Hot Pockets"
+        ]
+      },
+      {
+        "header": "Hobbies and Interests",
+        "items": [
+          "Going Out to Eat",
+          "Watching Sports",
+          "Working Out",
+          "Playing PS4",
+          "Bengals Gear or Decor",
+          "Red Ohio State Gear or Decor",
+          "Smart Gadgets"
+        ]
+      },
+      {
+        "header": "Favorite Media (Movies, Shows, Games)",
+        "items": [
+          "Criminal Minds",
+          "Family Guy",
+          "Thriller",
+          "Comedy Movies"
+        ]
+      },
+      {
+        "header": "Household Items and Personal Care",
+        "items": [
+          "Cool Decorations/Props",
+          "Good Quality Soap"
+        ]
+      },
+      {
+        "header": "Favorite Brands",
+        "items": [
+          "Nike",
+          "Anything Nice Really",
+          "Samsung"
+        ]
+      },
+      {
+        "header": "Gadgets, Tools, Tech Wishes",
+        "items": [
+          "Car Cleaning Gear",
+          "Drones",
+          "Handheld Tools Of Any Kind"
+        ]
+      },
+      {
+        "header": "Gift Card Ideas (Favorite Restaurants, Cafes, Stores)",
+        "items": [
+          "Texas Roadhouse",
+          "Chipotle",
+          "Taco Bell",
+          "Starbucks",
+          "Dicks",
+          "Sam's Club"
+        ]
+      },
+      {
+        "header": "Toys and Games",
+        "items": [
+          "Chucky Life Size Doll"
+        ]
+      },
+      {
+        "header": "Clothing Sizes",
+        "items": [
+          "Medium Shirts",
+          "Medium Hoodies"
+        ]
+      },
+      {
+        "header": "Other Gift Ideas",
+        "items": [
+          "Best Buy Gift Card",
+          "Ohio State Red Hoodie",
+          "Visa Gift Cards"
+        ]
+      },
+      {
+        "header": "Extra Gift Info (Favorite Colors, Favorite Flavors, Favorite Scents... What NOT to Get!)",
+        "items": [
+          "Favorite Colors: Red, Black, Blue, Grey."
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Drew",
+    "sections": [
+      {
+        "header": "Favorite Drinks",
+        "items": [
+          "Red Bull",
+          "Sugar-Free Monster",
+          "Rockstar Pure Zero",
+          "La Croix / Sparkling Water",
+          "Whole Bean Coffee",
+          "Bagged Tea",
+          "Craft Soda",
+          "Beer (All Varieties, Especially IPAs)",
+          "Gin"
+        ]
+      },
+      {
+        "header": "Favorite Treats",
+        "items": [
+          "Payday",
+          "Unique / Foreign Candy",
+          "Almond Joy",
+          "Jelly Beans",
+          "Sour Gummies"
+        ]
+      },
+      {
+        "header": "Favorite Snacks",
+        "items": [
+          "Chex Mix",
+          "Nuts: Cashews, Pistachios",
+          "Beef Jerky",
+          "Pork Rinds",
+          "Kettle Corn"
+        ]
+      },
+      {
+        "header": "Hobbies and Interests",
+        "items": [
+          "Bartending (Especially Unique Spirits, Bartending Equipment)",
+          "Running"
+        ]
+      },
+      {
+        "header": "Favorite Media (Movies, Shows, Games)",
+        "items": [
+          "Bartending Books"
+        ]
+      },
+      {
+        "header": "Household Items and Personal Care",
+        "items": [
+          "Incense",
+          "Candles"
+        ]
+      },
+      {
+        "header": "Favorite Brands",
+        "items": []
+      },
+      {
+        "header": "Gadgets, Tools, Tech Wishes",
+        "items": []
+      },
+      {
+        "header": "Gift Card Ideas (Favorite Restaurants, Cafes, Stores)",
+        "items": [
+          "5 Guys",
+          "Starbucks",
+          "Bibibop",
+          "Nintendo",
+          "Playstation",
+          "Target",
+          "Clustertruck"
+        ]
+      },
+      {
+        "header": "Toys and Games",
+        "items": []
+      },
+      {
+        "header": "Clothing Sizes",
+        "items": []
+      },
+      {
+        "header": "Other Gift Ideas",
+        "items": []
+      },
+      {
+        "header": "Extra Gift Info (Favorite Colors, Favorite Flavors, Favorite Scents... What NOT to Get!)",
+        "items": [
+          "Favorite Colors: Blue, Black, Red",
+          "Favorite Scents: Pine, Patchouli, Tabacco"
+        ]
+      }
+    ]
   }
 ]
